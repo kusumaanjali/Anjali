@@ -1,0 +1,43 @@
+*{
+    margin:5px;
+    padding:9px;
+}
+body{
+    background-image:liner-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),url("C:\Users\kusuma\Pictures\VARALAKSHMI.jpg");
+    height:100vh;
+    background-size:cover;
+    background-position:center;
+}
+div.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+div.register{
+    background-color: rgba(0, 0, 0,0.5);
+    width:100%;
+    font-size:18px;
+    border-radius:8px;
+    border:1px solid rgba(255, 255, 255,0.3);
+    box-shadow: 2px 2px 15px
+    rgba(0, 0, 0, 0.3);
+    color:#fff;
+}
+form#register{
+    margin:40px;
+}
+input#name{
+    width:300px;
+    border:1px solid #add;
+    border-radius:3px;
+    outline:0;
+    padding:7px;
+    background-color:#fff;
+    box-shadow:inset 1px 1px 5px 
+    rgba(0, 0, 0, 0.3);
+}
+
+}
